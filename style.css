@@ -4,13 +4,28 @@ body{
     color: white;
 }
 section {
-    background: rgb(170, 213, 156);
-    padding-bottom: 80px;
-            padding-top: 80px;
-            display: flex;
-            justify-content: center;
-            .chamada-texto{
-                margin-right: 5%;
+    display: flex;
+    justify-content: center;
+}
+.box1 {
+    width: 300px;
+    height: 300px;
+}
+background-color: rgb(25, 122, 154);
+border-left: solid 30px white;
+border-bottom: solid 30px white;
+padding-top: 50px;
+
+}
+
+.box2 {
+width: 300px;
+height: 300px;
+background-color: lightblue;
+border: solid 20px white;
+padding-left: 50px;
+
+}
             }
 
 }
