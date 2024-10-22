@@ -3,3 +3,9 @@ body{
     background-color: black;
     color: white;
 }
+section {
+    background: rgb(170, 213, 156);
+    padding-bottom: 80px;
+            padding-top: 80px;
+    }
+    
